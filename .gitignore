@@ -114,3 +114,9 @@ app.*.map.json
 !.idea/codeStyles/
 !.idea/dictionaries/
 !.idea/runConfigurations/
+
+# Server - node_modules
+/server/node_modules
+
+# Server - ENV
+/server/.env*
